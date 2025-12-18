@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "Sanjai"
+    },
+    {
+      "id": 2,
+      "title": "Applying ms",
+      "body": "lorem ipsum...",
+      "author": "G Sanjai"
+    },
+    {
+      "id": 3,
+      "title": "Getting in MS",
+      "body": "lorem ipsum...",
+      "author": "Sanjai"
+    }
+  ]
+}
